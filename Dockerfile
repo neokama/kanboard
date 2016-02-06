@@ -1,3 +1,6 @@
+#Dockerfile retrieve from :
+#https://github.com/fguillot/kanboard/
+
 FROM ubuntu:14.04
 MAINTAINER Frederic Guillot <fred@kanboard.net>
 
